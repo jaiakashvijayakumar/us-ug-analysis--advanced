@@ -1,0 +1,14 @@
+[
+  {
+    "state": "California",
+    "tuition": "$1310",
+    "living": "High",
+    "community": "High"
+  },
+  {
+    "state": "Texas",
+    "tuition": "$2270",
+    "living": "Low",
+    "community": "High"
+  }
+]
